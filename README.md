@@ -10,7 +10,7 @@ I didn't have much time to do this and never got any feedback from the people wh
 - Users are allowed a maximum of 3 transactions per day;
 - Account needs to have the funds for the transactions;
 - Each transaction has a fee of 2% when value <= 100 and 5% when value > 100;
-- Return the amount transferred in the CAD currency requesting to fixer.io client;
+- Return the amount transferred in CAD currency. Do this by requesting to fixer.io service;
 - Use Spring Data and Security.
 
 ### Rest api
